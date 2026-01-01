@@ -3,5 +3,25 @@
     "a875f19728a2ba1935ca944b6ead360b90d3dcfb8ed709821a0b3bfd3ce22b4a",
     "e47f35e35645bc57187d264c6060f2d98a93459c8e6fb852e20c106c195f594c",
     "a3ff3a97d53fe9485ae21885223bb2643312ff40c4c93a73a47e703758b91fc8"
+  ],
+  "_ADMIN_LOGS": [
+    {
+      "cliente": "Victor",
+      "id": "a875f19728a2ba1935ca944b6ead360b90d3dcfb8ed709821a0b3bfd3ce22b4a",
+      "fecha_pago": "2024-01-01",
+      "estado": "Al día"
+    },
+    {
+      "cliente": "Moises",
+      "id": "e47f35e35645bc57187d264c6060f2d98a93459c8e6fb852e20c106c195f594c",
+      "fecha_pago": "2024-01-05",
+      "estado": "Al día"
+    },
+    {
+      "cliente": "Arñaldo",
+      "id": "a3ff3a97d53fe9485ae21885223bb2643312ff40c4c93a73a47e703758b91fc8",
+      "fecha_pago": "2024-01-05",
+      "estado": "Al día"
+    }
   ]
 }

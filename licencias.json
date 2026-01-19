@@ -50,6 +50,12 @@
       "id": "11ecbe3916c7185df4d8e265541595ace91de6f4bd6c401286d77ec08170e859",
       "fecha_pago": "2024-01-01",
       "estado": "Al día"
+    },
+     {
+      "cliente": "Keyner",
+      "id": "bbd626cde8b826342fb416a86d18293129fd336de4631f93c4512fde6ab4e003",
+      "fecha_pago": "2024-01-01",
+      "estado": "Al día"
     }
   ]
 }
